@@ -1,4 +1,12 @@
- (function ( $ ) {
+
+/*
+ By Abi Salazar https://abisalazar.co.uk/ && https://development.abisalazar.co.uk/
+ Available for use under the MIT License
+ */ 
+
+
+
+(function ( $ ) {
 
                 $.fn.contentLoader = function( options ) {
 
